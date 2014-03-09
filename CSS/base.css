@@ -1,26 +1,38 @@
 body {
+    
     font-family: "Trebuchet MS","Lucida Sans", sans-serif; 
     font-size: 16px;
     line-height: 24px;
-    width:800px;
-    padding:166.6px;
-    border:5px solid white;
-    box-decoration-break:
-    margin:0 px 0 10px;
     background-image:url("http://31.media.tumblr.com/tumblr_mbj814YAfq1rirnzso1_400.jpg");
 }
 
-title {
-    text-align:center;
-    color: #E9967A;
-    text-decoration:none;
-    
+article {
+    width:750px;
+    padding:30px;
+    border:5px solid white;
+    margin:30px;
+    align-content:center;
+    background-color: #ffffff;
 }
 
 h1 {
-    text-align:center
+    align-content:center;
     color: #000000;
-    text-decoration:none;
+    text-decoration:underline;
 }
 
+h2 {
+}
 
+aside {
+    float:left;
+    
+}
+
+p {
+   
+}
+
+footer{
+    text-align:center;
+}
