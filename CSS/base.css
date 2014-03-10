@@ -19,14 +19,33 @@ article {
    
 }
 
+footer{
+    text-align:center;
+    font-size: 12px;
+}
+
+
+nav{
+    text-align:center;
+    font-size:24px;
+    border: 2px;
+    border-color: #E9967A;
+    
+}
+
 h1 {
     align-content:center;
+    text-align:center;
     color: #E9967A;
 }
 
 h2 {
     font-size:22px;
     text-align:left;
+}
+
+h3{
+    font-size:18px;
 }
 
 aside {
@@ -54,8 +73,4 @@ figure{
 
 
 
-footer{
-    text-align:center;
-    font-size: 12px;
-}
 
