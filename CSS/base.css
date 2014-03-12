@@ -4,6 +4,7 @@ body {
     font-size: 16px;
     line-height: 24px;
     background-image:url("http://31.media.tumblr.com/tumblr_mbj814YAfq1rirnzso1_400.jpg");
+    /*I used a background image from online but I didn't say anything about being copywritten nor did it have a source, I didn't know how to attribute it*/
     text-align:center;
 }
 
@@ -39,6 +40,7 @@ header{
 footer{
     text-align:center;
     font-size: 12px;
+    /*I kept trying to make the font size smaller for the footer nav but it's not working*/
 }
 
 
@@ -46,6 +48,7 @@ nav{
     text-align:center;
     font-size:18px; 
     padding-bottom: 40px;
+    /*I need to make more space between each of the nav content*/
 }
 
 
