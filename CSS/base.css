@@ -8,6 +8,8 @@ body {
     text-align:center;
 }
 
+/*I need to make the page move when you adjust the size of the website*/
+
 article {
     width:700px;
     height:900;
