@@ -39,6 +39,10 @@ header{
     text-align:center;
 }
 
+#my-inspiration {
+    background-color:#ffffff;height:500px;width:236px;float:left;
+}
+
 footer{
     text-align:center;
     font-size: 12px;
@@ -83,14 +87,6 @@ h5{
 h6{
     text-align:center;
     padding-top: .06px;
-}
-
-h7{
-    font-size:10px;
-    color:#000000;
-    text-align:center;
-    /*I want this on the bottom of the white area and centered but it's not working and I don't know what I'm doing wrong. I've tried adding paddding and margins but none of those were working. */
-   
 }
 
 
