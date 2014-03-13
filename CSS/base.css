@@ -53,14 +53,6 @@ figure{
 }
 
 
-
-footer{
-    text-align:center;
-    font-size: 12px;
-    /*I kept trying to make the font size smaller for the footer nav but it's not working*/
-}
-
-
 nav{
     text-align:center;
     font-size:18px; 
@@ -103,11 +95,15 @@ h6{
 
 p {
     text-align:left;
-    margin: 0px;
+     margin: 0px;
    
 }
 
-
+footer{
+    text-align:center;
+    font-size: 12px;
+    /*I kept trying to make the font size smaller for the footer nav but it's not working*/
+}
 
 
 
