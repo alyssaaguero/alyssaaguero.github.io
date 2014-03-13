@@ -12,10 +12,8 @@ body {
 
 article {
     width:700px;
-    height:900;
     padding:70px;
     padding-top: 3px; 
-    border: 0;
     margin-left:200px;
     margin-right:30px;
     text-align:left;
@@ -39,9 +37,22 @@ header{
     text-align:center;
 }
 
-#my-inspiration {
-    background-color:#ffffff;height:500px;width:236px;float:left;
+figure{
+    font-size: 11px;
+    text-align:left;
+    float:left;
+    padding-bottom:5px;  
+    width:90%;
 }
+
+#my-inspiration {
+    background-color:#ffffff;
+    width:300px;
+    float:left;
+    margin-right: 20px;
+}
+
+
 
 footer{
     text-align:center;
@@ -96,12 +107,7 @@ p {
    
 }
 
-figure{
-    font-size: 11px;
-    text-align:left;
-    float:left;
-    padding-bottom:5px;  
-}
+
 
 
 
