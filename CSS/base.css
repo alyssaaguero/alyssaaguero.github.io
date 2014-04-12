@@ -99,12 +99,16 @@ p {
    
 }
 
-footer{
+footer a {
     text-align:center;
     font-size: 12px;
     /*I kept trying to make the font size smaller for the footer nav but it's not working*/
 }
 
+#copyright {
+    text-align:center;
+    font-size: 8px;
+}
 
 
 
