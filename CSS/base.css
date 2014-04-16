@@ -62,8 +62,12 @@ figure{
 nav{
     text-align:center;
     font-size:18px; 
-    padding-bottom: 40px;
-    /*I need to make more space between each of the nav content*/
+    padding-bottom: 10px;
+    
+}
+
+.multimedia {
+    padding-top: 20px;
 }
 
 
