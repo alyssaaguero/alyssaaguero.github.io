@@ -110,8 +110,8 @@ h6{
 }
 
 h7{
-    margin-right:auto;
-    margin-left:auto;
+    padding-left: 190px;
+    padding-top: 30px;
 }
 
 .center{
@@ -128,7 +128,6 @@ p {
 footer a {
     text-align:center;
     font-size: 12px;
-    /*I kept trying to make the font size smaller for the footer nav but it's not working*/
 }
 
 #copyright {
