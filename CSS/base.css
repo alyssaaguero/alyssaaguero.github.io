@@ -43,6 +43,10 @@ header{
     text-align:center;
 }
 
+.porters {
+    text-align:left;
+}
+
 figure{
     font-size: 11px;
     text-align:left;
@@ -62,7 +66,7 @@ figure{
 nav{
     text-align:center;
     font-size:18px; 
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     
 }
 
