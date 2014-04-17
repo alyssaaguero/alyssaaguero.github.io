@@ -51,8 +51,10 @@ figure{
     font-size: 11px;
     text-align:left;
     float:left;
+    padding-bottom:15px;
     padding-bottom:5px;  
     width:90%;
+   
 }
 
 #my-inspiration {
@@ -62,6 +64,9 @@ figure{
     margin-right: 20px;
 }
 
+.list {
+    padding-top: -20px;
+}
 
 nav{
     text-align:center;
@@ -90,13 +95,10 @@ h3{
     font-size:18px;
 }
 
-h4{
-   
-}
 
 h5{
     font-size:18px;
-    padding-left: 35px;
+    padding-left: 22px;
     padding-bottom: .5px;
     margin-bottom: 0px;
 
@@ -105,6 +107,11 @@ h5{
 h6{
     text-align:center;
     padding-top: .06px;
+}
+
+h7{
+    margin-right:auto;
+    margin-left:auto;
 }
 
 .center{
