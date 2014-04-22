@@ -4,11 +4,9 @@ body {
     font-size: 16px;
     line-height: 24px;
     background-image:url("http://31.media.tumblr.com/tumblr_mbj814YAfq1rirnzso1_400.jpg");
-    /*I used a background image from online but I didn't say anything about being copywritten nor did it have a source, I didn't know how to attribute it*/
     text-align:center;
 }
 
-/*I need to make the page move when you adjust the size of the website*/
 
 #boxed {
     max-width:700px;
